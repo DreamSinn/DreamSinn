@@ -17,7 +17,7 @@
 
 Sou um **Vibe Coder**, explorando o desenvolvimento de software através de inteligência artificial, criatividade e experimentação.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark"/>
+<img src="https://github.com/DreamSinn/DreamSinn/blob/main/a6c4ecaf-2df5-4850-bb17-d902eeed6528.png"/>
 
 <br/><br/>
 
