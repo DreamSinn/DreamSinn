@@ -13,14 +13,10 @@
 
 ---
 
-## ☼ Sobre mim
-
-### ⚔️ Olá! Meu nome é Éder, também conhecido como Str0w.
+### ⚔️ Olá! Meu nome é Éder, também conhecido como Tower.
 
 Sou um **Vibe Coder**, explorando o desenvolvimento de software através de inteligência artificial, criatividade e experimentação.
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux&theme=dark"/>
 
 <br/><br/>
@@ -35,7 +31,6 @@ Sou um **Vibe Coder**, explorando o desenvolvimento de software através de inte
 </a>
 
 <br/>
-
 <!-- SEQUÊNCIA DE CONTRIBUIÇÕES -->
 <img src="https://streak-stats.demolab.com?user=DreamSinn&background=17120F&border=795B35&stroke=795B35&ring=C69B45&fire=9E3931&currStreakLabel=D6A84B&sideLabels=E8DCC3&currStreakNum=E8DCC3&sideNums=D6A84B&dates=9B8B75&hide_border=false&border_radius=10"/>
 
