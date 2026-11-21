@@ -13,7 +13,7 @@
 
 ---
 
-### ⚔️ Olá! Meu nome é Éder, também conhecido como Tower.
+### ⚔️ Olá! Meu nome é Éder, também conhecido como Strow.
 
 Sou um **Vibe Coder**, explorando o desenvolvimento de software através de inteligência artificial, criatividade e experimentação.
 <div align="center">
